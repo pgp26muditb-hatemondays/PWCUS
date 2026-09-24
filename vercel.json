@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/styleverse-studio-layout.html" }
+  ]
+}
